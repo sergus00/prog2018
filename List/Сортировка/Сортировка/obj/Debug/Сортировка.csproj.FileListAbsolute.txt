@@ -1,0 +1,7 @@
+C:\Users\Serg\source\repos\Сортировка\Сортировка\obj\Debug\Сортировка.csprojResolveAssemblyReference.cache
+C:\Users\Serg\source\repos\Сортировка\Сортировка\obj\Debug\Сортировка.csproj.CoreCompileInputs.cache
+C:\Users\Serg\source\repos\Сортировка\Сортировка\bin\Debug\Сортировка.exe.config
+C:\Users\Serg\source\repos\Сортировка\Сортировка\bin\Debug\Сортировка.exe
+C:\Users\Serg\source\repos\Сортировка\Сортировка\bin\Debug\Сортировка.pdb
+C:\Users\Serg\source\repos\Сортировка\Сортировка\obj\Debug\Сортировка.exe
+C:\Users\Serg\source\repos\Сортировка\Сортировка\obj\Debug\Сортировка.pdb
