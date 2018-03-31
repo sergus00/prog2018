@@ -1,127 +1,123 @@
 ﻿using System;
 
-namespace Program
+namespace ConsoleApplication
 {
     class Program
     {
-        static void QuickSort(int[] array, int start, int end)
+        public static int BinarySearch(int[] array, int value)
         {
-            if (end == start) return;
-            var pivot = array[end];
-            var storeIndex = start;
-            for (int i = start; i <= end - 1; i++)
-                if (array[i] <= pivot)
-                {
-                    var t = array[i];
-                    array[i] = array[storeIndex];
-                    array[storeIndex] = t;
-                    storeIndex++;
-                }
+            //код поиска значения value в массиве array
+            int first = 0;
+            var last = array.Length;
 
-            var n = array[storeIndex];
-            array[storeIndex] = array[end];
-            array[end] = n;
-            if (storeIndex > start) QuickSort(array, start, storeIndex - 1);
-            if (storeIndex < end) QuickSort(array, storeIndex + 1, end);
-        }
+            while (first <= last)
+            {
+                if (last == 0)
+                    break;
 
-        public static void QuickSort(int[] array)
-        {
-            if (array.Length == 0)
-                return;
-            QuickSort(array, 0, array.Length - 1);
-        }
+                int mid = (first + last) / 2;
 
-        static Random rnd = new Random(DateTime.Now.Second);
+                if (value < array[mid])
+                    first = mid;
 
-        public static int[] NewRandomArray(int length)
-        {
-            var array = new int[length];
-            for (int i = 0; i < array.Length; i++)
-                array[i] = rnd.Next(0, 322);
-            return array;
+                else if (value > array[mid])
+                    last = mid;
+
+                else if (array[mid] == value)
+                    return mid;
+
+                else
+                    break;
+            }
+            return -1;
         }
 
         static void Main(string[] args)
         {
-            TestThreeNumbersArray();
-            Test1000lNumbersArray();
+            TestNegativeNumbers();
+            TestNonExistentElement();
             TestEmptyArray();
+            TestOneElement();
             TestBigArray();
+            TestRepeatingElement();
             Console.ReadKey();
         }
 
-        public static void TestThreeNumbersArray()
+        private static void TestNegativeNumbers()
         {
-            //Тестирование сортировки массива из трёх элементов
-            var array = NewRandomArray(3);
-            QuickSort(array);
+            //Тестирование поиска в отрицательных числах
+            int[] negativeNumbers = new[] { -5, -4, -3, -2 };
 
-            if (array[0] < array[1] && array[1] < array[2])
-                Console.WriteLine("Сортировка массива из трёх чисел работает корректно");
+            if (BinarySearch(negativeNumbers, -3) != 2)
+                Console.WriteLine("! Поиск не нашёл число -3 среди чисел {-5, -4, -3, -2}");
+
             else
-                Console.WriteLine("!!! Сортировка массива из трёх чисел не работает !!!");
+                Console.WriteLine("Поиск среди отрицательных чисел работает корректно");
         }
 
-        public static void Test1000lNumbersArray()
+        private static void TestNonExistentElement()
         {
-            //Тестирование сортировки массива из 1000 случайных элементов
-            var array = NewRandomArray(1000);
-            int res = 1;
-            QuickSort(array);
-            
-            for (int i = 0; i < 10; i++)
-            {
-                var index = rnd.Next(0, 999);
-                if (array[index] <= array[index + 1])
-                    continue;
-                else
-                {
-                    res = -1;
-                    break;
-                }
-            }
+            //Тестирование поиска отсутствующего элемента
+            int[] negativeNumbers = new[] { -5, -4, -3, -2 };
 
-            if (res == 1)
-                Console.WriteLine("Сортировка массива 1000 случайных элементов работает корректно");
+            if (BinarySearch(negativeNumbers, -1) >= 0)
+                Console.WriteLine("! Поиск нашёл число -1 среди чисел {-5, -4, -3, -2}");
+
             else
-                Console.WriteLine("!!! Сортировка массива 1000 случайных элементов не работает !!!");
+                Console.WriteLine("Поиск отсутствующего элемента вернул корректный результат и работает корректно");
         }
 
-        public static void TestEmptyArray()
+        private static void TestRepeatingElement()
         {
-            //Тестирование сортировки пустого массива
-            var array = NewRandomArray(0);
-            QuickSort(array);
+            //Тестирование поиска элемента, повторяющегося несколько раз
+            int[] numbers = new[] { 7, 5, 5, 2, 1 };
 
-            if (array.Length == 0)
-                Console.WriteLine("Сортировка пустого массива работает корректно");
+            if (BinarySearch(numbers, 5) != 2)
+                Console.WriteLine("! Поиск не нашёл число 5 среди чисел { 7, 5, 5, 2, 1 }");
+
             else
-                Console.WriteLine("!!! Сортировка пустого массива не работает !!!");
+                Console.WriteLine("Поиск повторяющихся элементов работает корректно");
         }
 
-        public static void TestBigArray()
+        private static void TestEmptyArray()
         {
-            //Тестирование сортировки массива из 1 500 000 000 элементов
-            var array = NewRandomArray(1500000);
-            int res = 1;
-            QuickSort(array);
-            
-            for (int i = 0; i < array.Length - 1; i++)
-            {
-                if (array[i] <= array[i + 1])
-                    continue;
-                else
-                {
-                    res = -1;
-                    break;
-                }
-            }
+            //Тестирование поиска элемента в пустом массиве
+            int[] emptyArray = new int[0];
 
-            if (res == 1)
-                Console.WriteLine("Сортировка массива из 1 500 000 000 элементов работает корректно");
+            if (BinarySearch(emptyArray, 25) != -1)
+                Console.WriteLine("! Поиск нашёл число 25 в пустом массиве");
+
             else
-                Console.WriteLine("!!! Сортировка массива из 1 500 000 000 элементов не работает !!!");
+                Console.WriteLine("Поиск в пустом массиве работает корректно");
+        }
+
+        private static void TestOneElement()
+        {
+            //Тестирование поиска элемента в массиве из 5 элементов
+            int[] numbers = new[] { 5, 4, 3, 2, 1 };
+
+            if (BinarySearch(numbers, 3) != 2)
+                Console.WriteLine("! Поиск не нашёл число 3 среди чисел {5, 4, 3, 2, 1}");
+
+            else
+                Console.WriteLine("Поиск среди 5 чисел работает корректно");
+        }
+
+        private static void TestBigArray()
+        {
+            //Тестирование поиска элемента в массиве из 100001 элементов
+            int[] bigArray = new int[100001];
+
+            for (int i = bigArray.Length; i > 0; i--)
+                bigArray[i - 1] = bigArray.Length - i + 1;
+
+            bigArray[0] = 999999999;
+
+            if (BinarySearch(bigArray, 999999999) != 0)
+                Console.WriteLine("! Поиск не нашёл число 999999999 в большом массиве");
+
+            else
+                Console.WriteLine("Поиск в большом массиве работает корректно");
         }
     }
 }
