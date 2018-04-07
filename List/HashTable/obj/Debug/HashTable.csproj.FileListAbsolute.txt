@@ -1,0 +1,7 @@
+C:\Users\Serg\source\repos\Шарп2\Шарп\bin\Debug\Шарп.exe.config
+C:\Users\Serg\source\repos\Шарп2\Шарп\bin\Debug\Шарп.exe
+C:\Users\Serg\source\repos\Шарп2\Шарп\bin\Debug\Шарп.pdb
+C:\Users\Serg\source\repos\Шарп2\Шарп\obj\Debug\HashTable.csprojResolveAssemblyReference.cache
+C:\Users\Serg\source\repos\Шарп2\Шарп\obj\Debug\HashTable.csproj.CoreCompileInputs.cache
+C:\Users\Serg\source\repos\Шарп2\Шарп\obj\Debug\Шарп.exe
+C:\Users\Serg\source\repos\Шарп2\Шарп\obj\Debug\Шарп.pdb
