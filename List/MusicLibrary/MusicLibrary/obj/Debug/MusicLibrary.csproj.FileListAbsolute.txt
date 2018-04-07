@@ -1,0 +1,6 @@
+C:\Users\Serg\Desktop\MusicLibrary\MusicLibrary\bin\Debug\GoHome.dll
+C:\Users\Serg\Desktop\MusicLibrary\MusicLibrary\bin\Debug\GoHome.pdb
+C:\Users\Serg\Desktop\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Serg\Desktop\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Desktop\MusicLibrary\MusicLibrary\obj\Debug\GoHome.dll
+C:\Users\Serg\Desktop\MusicLibrary\MusicLibrary\obj\Debug\GoHome.pdb
