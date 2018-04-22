@@ -1,0 +1,13 @@
+\\Mac\Home\Downloads\GoHome\GoHome.UI\bin\Debug\GoHome.UI.exe.config
+\\Mac\Home\Downloads\GoHome\GoHome.UI\bin\Debug\GoHome.UI.exe
+\\Mac\Home\Downloads\GoHome\GoHome.UI\bin\Debug\GoHome.UI.pdb
+\\Mac\Home\Downloads\GoHome\GoHome.UI\obj\Debug\GoHome.UI.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\GoHome\GoHome.UI\obj\Debug\GoHome.UI.Form1.resources
+\\Mac\Home\Downloads\GoHome\GoHome.UI\obj\Debug\GoHome.UI.Properties.Resources.resources
+\\Mac\Home\Downloads\GoHome\GoHome.UI\obj\Debug\GoHome.UI.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\GoHome\GoHome.UI\obj\Debug\GoHome.UI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\GoHome\GoHome.UI\obj\Debug\GoHome.UI.exe
+\\Mac\Home\Downloads\GoHome\GoHome.UI\obj\Debug\GoHome.UI.pdb
+\\Mac\Home\Downloads\GoHome\GoHome.UI\bin\Debug\GoHome.dll
+\\Mac\Home\Downloads\GoHome\GoHome.UI\bin\Debug\GoHome.pdb
+\\Mac\Home\Downloads\GoHome\GoHome.UI\obj\Debug\GoHome.UI.WayPointForm.resources

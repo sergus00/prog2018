@@ -1,0 +1,20 @@
+c:\Users\student\documents\visual studio 2015\Projects\GoHome\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+c:\Users\student\documents\visual studio 2015\Projects\GoHome\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+c:\Users\student\documents\visual studio 2015\Projects\GoHome\UnitTestProject1\bin\Debug\GoHome.dll
+c:\Users\student\documents\visual studio 2015\Projects\GoHome\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\student\documents\visual studio 2015\Projects\GoHome\UnitTestProject1\bin\Debug\GoHome.pdb
+c:\Users\student\documents\visual studio 2015\Projects\GoHome\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\Users\student\documents\visual studio 2015\Projects\GoHome\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+c:\Users\student\documents\visual studio 2015\Projects\GoHome\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+c:\Users\student\documents\visual studio 2015\Projects\GoHome\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Serg\Desktop\GoHomeV3 (1)\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Serg\Desktop\GoHomeV3 (1)\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Desktop\GoHomeV3 (1)\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Serg\Desktop\GoHomeV3 (1)\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Serg\Desktop\GoHomeV3 (1)\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Serg\Desktop\GoHomeV3 (1)\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Serg\Desktop\GoHomeV3 (1)\UnitTestProject1\bin\Debug\GoHome.dll
+C:\Users\Serg\Desktop\GoHomeV3 (1)\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Serg\Desktop\GoHomeV3 (1)\UnitTestProject1\bin\Debug\GoHome.pdb
+C:\Users\Serg\Desktop\GoHomeV3 (1)\UnitTestProject1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Serg\Desktop\GoHomeV3 (1)\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete

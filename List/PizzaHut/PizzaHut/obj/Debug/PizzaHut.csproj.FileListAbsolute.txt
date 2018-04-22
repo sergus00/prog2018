@@ -1,0 +1,12 @@
+C:\Users\Serg\Desktop\GoHomeV3 (1)\GoHome\bin\Debug\GoHome.dll
+C:\Users\Serg\Desktop\GoHomeV3 (1)\GoHome\bin\Debug\GoHome.pdb
+C:\Users\Serg\Desktop\GoHomeV3 (1)\GoHome\obj\Debug\PizzaHut.csprojResolveAssemblyReference.cache
+C:\Users\Serg\Desktop\GoHomeV3 (1)\GoHome\obj\Debug\PizzaHut.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Desktop\GoHomeV3 (1)\GoHome\obj\Debug\GoHome.dll
+C:\Users\Serg\Desktop\GoHomeV3 (1)\GoHome\obj\Debug\GoHome.pdb
+C:\Users\Serg\Desktop\GoHomeV3 (1)\PizzaHut\bin\Debug\GoHome.dll
+C:\Users\Serg\Desktop\GoHomeV3 (1)\PizzaHut\bin\Debug\GoHome.pdb
+C:\Users\Serg\Desktop\GoHomeV3 (1)\PizzaHut\obj\Debug\PizzaHut.csprojResolveAssemblyReference.cache
+C:\Users\Serg\Desktop\GoHomeV3 (1)\PizzaHut\obj\Debug\PizzaHut.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Desktop\GoHomeV3 (1)\PizzaHut\obj\Debug\GoHome.dll
+C:\Users\Serg\Desktop\GoHomeV3 (1)\PizzaHut\obj\Debug\GoHome.pdb
