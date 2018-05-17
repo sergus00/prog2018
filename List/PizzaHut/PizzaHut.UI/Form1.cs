@@ -97,10 +97,10 @@ namespace PizzaHut.UI
                             price += 145;
                             break;
                         case Pizzas.Сheese:
-                            price += 10;
+                            price += 100;
                             break;
                         case Pizzas.Maragarita:
-                            price += 1;
+                            price += 100;
                             break;
                     }
                 }

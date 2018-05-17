@@ -21,5 +21,10 @@ namespace PizzaHut
                 return (Request)Xs.Deserialize(fileStream);
             }
         }
+
+        public static Request LoadFromStream(Stream file)
+        {
+            return (Request)Xs.Deserialize(file);
+        }
     }
 }

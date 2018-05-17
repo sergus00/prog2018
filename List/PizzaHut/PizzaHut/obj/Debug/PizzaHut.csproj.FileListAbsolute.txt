@@ -10,3 +10,9 @@ C:\Users\Serg\Desktop\GoHomeV3 (1)\PizzaHut\obj\Debug\PizzaHut.csprojResolveAsse
 C:\Users\Serg\Desktop\GoHomeV3 (1)\PizzaHut\obj\Debug\PizzaHut.csproj.CoreCompileInputs.cache
 C:\Users\Serg\Desktop\GoHomeV3 (1)\PizzaHut\obj\Debug\GoHome.dll
 C:\Users\Serg\Desktop\GoHomeV3 (1)\PizzaHut\obj\Debug\GoHome.pdb
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut\bin\Debug\GoHome.dll
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut\bin\Debug\GoHome.pdb
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut\obj\Debug\PizzaHut.csprojResolveAssemblyReference.cache
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut\obj\Debug\PizzaHut.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut\obj\Debug\GoHome.dll
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut\obj\Debug\GoHome.pdb
