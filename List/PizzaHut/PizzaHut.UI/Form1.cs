@@ -134,5 +134,20 @@ namespace PizzaHut.UI
             listBox1.Items.RemoveAt(si);
             RecalculatePrice(count);
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            var lv = new LicenceValidator();
+            if (!lv.HasLicense)
+            {
+                MessageBox.Show("Лицензия не найдена. Купите её.");
+                Application.Exit();
+            }
+            if (!lv.IsValid)
+            {
+                MessageBox.Show("Лицензия просрочена. Обновите её.");
+                Application.Exit();
+            }
+        }
     }
 }

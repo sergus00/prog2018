@@ -1,0 +1,10 @@
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut.LicenceGenerator\obj\Debug\PizzaHut.LicenceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut.LicenceGenerator\bin\Debug\PizzaHut.LicenceGenerator.exe.config
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut.LicenceGenerator\bin\Debug\PizzaHut.LicenceGenerator.exe
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut.LicenceGenerator\bin\Debug\PizzaHut.LicenceGenerator.pdb
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut.LicenceGenerator\bin\Debug\GoHome.dll
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut.LicenceGenerator\bin\Debug\GoHome.pdb
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut.LicenceGenerator\obj\Debug\PizzaHut.LicenceGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut.LicenceGenerator\obj\Debug\PizzaHut.LicenceGenerator.csproj.CopyComplete
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut.LicenceGenerator\obj\Debug\PizzaHut.LicenceGenerator.exe
+C:\Users\Serg\Desktop\Серёжа\Файлы\Универ\Проганье 2 курс 2 семестр\PizzaHut\PizzaHut.LicenceGenerator\obj\Debug\PizzaHut.LicenceGenerator.pdb
